@@ -1,4 +1,5 @@
 # Classes with the links
+from json_utils import *
 Links = {
     
     'maths':'https://meet.google.com/upa-rhfx-skp',
@@ -86,7 +87,3 @@ timetable = {
     'saturday':saturday
     
     }
-
-import json
-with open('data.json' , 'w+') as data:
-    json.dump(timetable, data, indent=4)
