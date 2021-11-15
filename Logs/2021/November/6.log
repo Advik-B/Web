@@ -1,0 +1,7 @@
+[DEBUG]: (13:0:20): Active connections: 0
+2.168.56.1:5050
+[INFO]: (13:0:20): Max-Clients: 25
+[DEBUG]: (13:5:49): Active connections: 0
+[INFO]: (13:5:49): Server is starting at 192.168.56.1:5050
+[INFO]: (13:5:49): Max-Clients: 25
+[DEBUG]: (13:6:49): Active connections: 0
